@@ -6007,9 +6007,9 @@ react-avatar-editor@^11.0.4:
   dependencies:
     prop-types "^15.5.8"
 
-react-color@^2.18.0:
-  version "2.18.0"
-  resolved "https://registry.yarnpkg.com/react-color/-/react-color-2.18.0.tgz#34956f0bac394f6c3bc01692fd695644cc775ffd"
+react-color@^2.18.1:
+  version "2.18.1"
+  resolved "https://registry.yarnpkg.com/react-color/-/react-color-2.18.1.tgz#2cda8cc8e06a9e2c52ad391a30ddad31972472f4"
   dependencies:
     "@icons/material" "^0.2.4"
     lodash "^4.17.11"
